@@ -27,5 +27,8 @@ export default defineConfig({
       // 自动导入 src/components 下的组件
       dts: 'src/components.d.ts'
     })
-  ]
+  ],
+  server: {
+    port: 5174
+  }
 })

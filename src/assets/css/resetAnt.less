@@ -1,0 +1,59 @@
+.reset-input.ant-input {
+    padding: 0;
+    font-family: 'Poppins-regular';
+
+    &:focus {
+        box-shadow: unset;
+    }
+
+    &::placeholder {
+        font-family: 'Poppins-regular';
+    }
+}
+
+.reset-affix-input.ant-input-affix-wrapper {
+    padding: 0;
+    font-family: 'Poppins-regular';
+
+    input {
+        &::placeholder {
+            font-family: 'Poppins-regular';
+        }
+
+        &:focus {
+            box-shadow: unset;
+        }
+
+        &:focus-within {
+            box-shadow: unset;
+        }
+    }
+
+    .ant-input-suffix {
+        width: 16px;
+        cursor: pointer;
+    }
+
+}
+
+.ant-input-affix-wrapper-focused {
+    box-shadow: unset;
+}
+
+.reset-btn.ant-btn {
+    width: fit-content;
+    padding: 0;
+    border: none;
+    box-shadow: unset;
+    height: unset;
+
+    &:hover {
+        color: unset;
+        box-shadow: unset;
+    }
+
+    &:focus-visible {
+        outline: none !important;
+        box-shadow: none !important;
+    }
+}

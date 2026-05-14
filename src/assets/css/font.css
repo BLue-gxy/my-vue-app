@@ -1,0 +1,184 @@
+/* .saira-regular {
+  font-family: 'Saira', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.saira-medium {
+  font-family: 'Saira', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.saira-bold {
+  font-family: 'Saira', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.saira-black {
+  font-family: 'Saira', sans-serif;
+  font-weight: 900;
+  font-style: normal;
+} */
+
+.dela-gothic-one-regular {
+  font-family: "Dela Gothic One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-VariableFont_wdth.ttf') format('truetype');
+}
+
+.roboto-regular {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* pingfang */
+/* @font-face {
+  font-family: 'PingFang-Regular';
+  src: var(--PingFang-Regular) format('truetype');
+}
+.pingfang-regular {
+  font-family: 'PingFang-Regular', -apple-system, sans-serif;
+}
+
+@font-face {
+  font-family: 'PingFang-Bold';
+  src: var(--PingFang-Bold) format('truetype');
+}
+.pingfang-bold {
+  font-family: 'PingFang-Bold', -apple-system, sans-serif;
+}
+
+@font-face {
+  font-family: 'PingFang-Medium';
+  src: var(--PingFang-Medium) format('truetype');
+}
+.pingfang-medium {
+  font-family: 'PingFang-Medium', -apple-system, sans-serif;
+} */
+
+/* poppins */
+@font-face {
+  font-family: 'Poppins-Black';
+  src: url('../fonts/Poppins-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: 'Poppins-Black', -apple-system, Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'Poppins-ExtraBold';
+  src: url('../fonts/Poppins-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: 'Poppins-ExtraBold', -apple-system, Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: url('../fonts/Poppins-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: 'Poppins-Bold', -apple-system, Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  src: url('../fonts/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+.poppins-semibold {
+  font-family: 'Poppins-SemiBold', -apple-system, Arial, sans-serif;
+}
+@font-face {
+  font-family: 'Poppins-Medium';
+  src: url('../fonts/Poppins-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+.poppins-medium {
+  font-family: 'Poppins-Medium', -apple-system, Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'Poppins-Regular';
+  src: url('../fonts/Poppins-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-regular {
+  font-family: 'Poppins-Regular', -apple-system, Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'Mukta Vaani';
+  src: url('../fonts/MuktaVaani-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+.mukta-vaani-bold {
+  font-family: 'Mukta Vaani', serif;
+}
+
+@font-face {
+  font-family: 'Ethnocentric-Regular';
+  src: url('../fonts/Ethnocentric-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Black Ops One';
+  src: url('../fonts/BlackOpsOne-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-sans-caption-regular {
+  font-family: "PT Sans Caption", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
